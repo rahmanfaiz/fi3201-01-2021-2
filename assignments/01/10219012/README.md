@@ -7,7 +7,8 @@ NIM  <fill your student identification number>
 ```
 
 ## Answer
+
 ```
-NAME Faiz Aulia Rahman
-NIM  10219012
+NAME <Faiz Aulia Rahman>
+NIM  <10219012>
 ```
