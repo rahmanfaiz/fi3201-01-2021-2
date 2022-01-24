@@ -17,7 +17,7 @@ for x in NIM:
 ## question 1
 Ganti nilai variabel NIM dengan data Anda, jalankan kode yang diberikan, dan tampilkan hasilnya.
 
-### anwser 1
+### answer 1
 Hasil kode di atas adalah
 ```
 Traceback (most recent call last):
@@ -34,7 +34,7 @@ di-*compile* menggunakan [OneCompiler (3xra5zpun)](https://onecompiler.com/pytho
 ## question 2
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char1`, jalankan dan tampilkan hasilnya.
 
-### anwser 2
+### answer 2
 Hasil modifikasi kode di atas adalah
 ```
 1:◻
@@ -57,7 +57,7 @@ di-*compile* menggunakan [OneCompiler (3xra5zpun)](https://onecompiler.com/pytho
 ## question 3
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char2`, jalankan dan tampilkan hasilnya.
 
-### anwser 3
+### answer 3
 Hasil modifikasi kode di atas adalah
 ```
 1:◼
