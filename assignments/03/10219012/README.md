@@ -27,9 +27,9 @@ NameError: name 'char' is not defined
 
 
 ```
-> Hal ini terjadi karena dalam kode yang diberikan variabel 'char' belum dinyatakan atau di-declare
+> Hal ini terjadi karena dalam kode yang diberikan variabel 'char' belum dinyatakan atau di-*declare*
 
-di-compile menggunakan [OneCompiler (3xra5zpun)](https://onecompiler.com/python/3xra5zpun)
+di-*compile* menggunakan [OneCompiler (3xra5zpun)](https://onecompiler.com/python/3xra5zpun)
 
 ## question 2
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char1`, jalankan dan tampilkan hasilnya.
@@ -52,7 +52,7 @@ dipanggil menggunakan method html.unescape()
 > + kemudian karakter tersebut diulang sebanyak angka yang terdapat pada NIM. 
 Misalkan : (1:◻); (0: ); (2:◻◻) dst 
 
-di-compile menggunakan [OneCompiler (3xra5zpun)](https://onecompiler.com/python/3xra5zpun)
+di-*compile* menggunakan [OneCompiler (3xra5zpun)](https://onecompiler.com/python/3xra5zpun)
 
 ## question 3
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char2`, jalankan dan tampilkan hasilnya.
@@ -72,12 +72,12 @@ Hasil modifikasi kode di atas adalah
 ```
 > Hasil yang didapatkan mirip dengan pertanyaan sebelumnya, bedanya terdapat pada Unicode Hex kotak hitam (◼) yang disimpan di variabel 'char2'
 
-di-compile menggunakan [OneCompiler (3xra5zpun)](https://onecompiler.com/python/3xra5zpun)
+di-*compile* menggunakan [OneCompiler (3xra5zpun)](https://onecompiler.com/python/3xra5zpun)
 
 ## question 4
 Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
 Kode di atas berfungsi untuk
-+ Menggunakan method html.unescape, *ascii string* dapat dirubah menjadi *html script* sehingga dapat menampilkan karakter khusus
-+ Karakter khusus tadi dapat dipanggil kemudian diulang menggunakan *loop* sebanyak angka yang ada pada urutan NIM 
++ Menggunakan method html.unescape(), *ascii string* dapat dirubah menjadi *html script* sehingga dapat menampilkan karakter khusus
++ Karakter khusus tadi dipanggil kemudian disusun-ulang menggunakan *loop* sebanyak angka yang ada pada urutan NIM 
