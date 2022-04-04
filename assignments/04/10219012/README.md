@@ -87,7 +87,7 @@ Potongan kode yang perlu disisipkan adalah
 
 ```
 dan hasil berkas gifnya adalah \
-![berikut hasil berkasnya](to the right.gif)
+![berikut hasil berkasnya](totheright.gif)
 
 
 ## question 3
@@ -99,7 +99,7 @@ Potongan kode yang perlu disisipkan adalah
     y = np.sin(2 * np.pi * ((x/2) + (1/2)* 0.01 * i))
 ```
 dan hasil berkas gifnya adalah \
-![berikut hasil berkasnya](to the left.gif)
+![berikut hasil berkasnya](totheleft.gif)
 
 
 ## question 4
