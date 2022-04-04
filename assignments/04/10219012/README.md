@@ -74,6 +74,7 @@ Baca penjelasan mengenai kode di atas pada <https://dudung.github.io/bugx/0026/>
 ### answer 1
 Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
 ```
+Keduanya, saya sudah membaca dan hadir pada kuliah. Kode diatas merupakan visualisasi yang dilengkapi dengan animasi dari persamaan gelombang. Dengan bantuan, matplotlib. Dengan memasukkan persamaan yang benar dapat diciptakan animasi persamaan gelombang ke kanan, ke kiri, dan stasioner
 ```
 
 ## question 2
@@ -82,6 +83,8 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
+  y = np.sin(2 * np.pi * ((x/2) - (1/2)* 0.01 * i))
+
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to right]()
@@ -93,6 +96,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
 ```
+  y = np.sin(2 * np.pi * ((x/2) + (1/2)* 0.01 * i))
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left]()
