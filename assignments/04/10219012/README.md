@@ -87,7 +87,7 @@ Potongan kode yang perlu disisipkan adalah
 
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![berikut hasil berkasnya](to the right.gif)
 
 
 ## question 3
@@ -99,7 +99,7 @@ Potongan kode yang perlu disisipkan adalah
     y = np.sin(2 * np.pi * ((x/2) + (1/2)* 0.01 * i))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
+![berikut hasil berkasnya](to the left.gif)
 
 
 ## question 4
@@ -111,4 +111,4 @@ Potongan kode yang perlu disisipkan adalah
     y = np.sin(np.pi * x) * np.cos(np.pi * 0.01 * i)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![berikut hasil berkasnya](stationery.gif)
